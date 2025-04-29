@@ -1,0 +1,11 @@
+numpy
+pandas
+torch
+matplotlib
+chess
+tensorboard
+scikit-learn
+pytest
+tqdm
+# For NNUE integration (optional)
+nnue-pytorch
